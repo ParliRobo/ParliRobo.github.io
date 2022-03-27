@@ -27,3 +27,7 @@ Coming soon.
 
 ## Data Release
 Coming soon.
+
+<video id="video" controls="" preload="none" poster="https://github.com/ParliRobo/ParliRobo.github.io/blob/main/data/poster.png"> <source id="mp4" src="https://github.com/ParliRobo/ParliRobo.github.io/blob/main/data/AIRobot1.mp4" type="video/mp4"> </video>
+
+<iframe width="560" height="315" src="https://github.com/ParliRobo/ParliRobo.github.io/blob/main/data/AIRobot1.mp4" frameborder="0" allowfullscreen></iframe>
