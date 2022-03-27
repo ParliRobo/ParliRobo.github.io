@@ -12,7 +12,7 @@
 <br />
 
 ## Table of Contents
-[Introduction](#about-this-study)
+[About This Study](#about-this-study)
 
 [Code Release](#code-release)
 
