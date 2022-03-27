@@ -1,6 +1,10 @@
-<center style="font-size:25px;color:green;line-height:-10px"> ParliRobo: Participant Lightweight AI Robots for
-Complex Real-Time Mobile Gaming </center>
+## Table of Contents
+[Introduction](#introduction)
 
-## parlirobo.github.io
+[Data Release](#data-release)
 
+## Introduction
+Coming soon.
+
+## Data Release
 Coming soon.
