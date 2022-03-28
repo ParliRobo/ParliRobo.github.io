@@ -24,8 +24,20 @@ Recent years have witnessed the profound influence of AI technologies on compute
 
 ## Code Release
 
-Currently, we have partially released the code of this study [on github](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/code). We are scrutinizing the codebase to avoid possible anonymity violation. To this end, we will release the source code of this study as soon as we have finished examining a module and get approval from the authority.
-
+Currently, we have partially released the code of this study [on github](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/code). We are scrutinizing the codebase to avoid possible anonymity violation. To this end, we will release the source code of this study as soon as we have finished examining a module and get approval from the authority.The codebase is organized as follows.
+```
+code
+|---- agent
+          |---- KLDiv.py
+          |---- categorical.py
+          |---- drtrace.py
+          |---- entropy.py
+          |---- get_shape.py
+          |---- mmo.py
+          |---- policy_graph.py
+|---- _math.py
+|---- preprocessor.py
+```
 
 
 
