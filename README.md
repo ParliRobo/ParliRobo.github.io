@@ -54,7 +54,7 @@ code
 </picture>
 
 
-[![Watch the video](https://img.youtube.com/vi/Hw3-9WkHHpg/qdefault.jpg)](https://youtu.be/Hw3-9WkHHpg)
+[![Watch the video](https://github.com/ParliRobo/ParliRobo.github.io/blob/main/data/poster.png)](https://youtu.be/Hw3-9WkHHpg)
 
 
 <iframe 
