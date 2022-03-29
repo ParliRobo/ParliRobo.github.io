@@ -40,7 +40,7 @@ code
 ```
 
 + `code/_math.py` provides math tools for clipping and embedding.
-+ `code/preprocessor.py` preprocesses the visual information of AI robots, such as bilinear approximation, reward calculation, etc. 
++ `code/preprocessor.py` preprocesses the visual information of AI robots, It preprocesses the visual information of AI robots and defines functions such as bilinear approximation and reward calculation.
 + `code/policy_graph.py` defines the structure of the Parlirobo's ML model.
 + `code/agent/policy_graph.py`
 
