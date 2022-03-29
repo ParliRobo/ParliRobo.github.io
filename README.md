@@ -48,15 +48,6 @@ code
 
 ## Data Release
 
-<picture>
-    <source type="image/webp" srcset="image.webp">
-    <img src="https://i.ytimg.com/an_webp/Hw3-9WkHHpg/mqdefault_6s.webp?du=3000&sqp=CKjWipIG&rs=AOn4CLADBha2MkrqAs2FWNg4rt3zxUBdKQ">
-</picture>
-
-
-[![Watch the video](https://github.com/ParliRobo/ParliRobo.github.io/blob/main/data/poster.png)](https://youtu.be/Hw3-9WkHHpg)
-
-
 <iframe 
 src="https://www.youtube.com/embed/Hw3-9WkHHpg" 
 scrolling="no" 
@@ -64,8 +55,8 @@ border="0"
 frameborder="no" 
 framespacing="0" 
 allowfullscreen="true" 
-height=600 
-width=800> 
+height=300 
+width=400> 
 </iframe>
 
 
