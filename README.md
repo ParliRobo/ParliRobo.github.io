@@ -39,9 +39,10 @@ code
 |---- preprocessor.py
 ```
 
-+ `code/_math.py` provides math tools for clipping and embedding
-+ `code/preprocessor.py` description is coming
-+ `code/agent/policy_graph.py` description is coming
++ `code/_math.py` provides math tools for clipping and embedding.
++ `code/preprocessor.py` 
++ `code/policy_graph.py` defines the structure of the Parlirobo's ML model.
++ `code/agent/policy_graph.py`
 
 
 
