@@ -60,5 +60,4 @@ width=400>
 </iframe>
 
 
-Coming soon.
-
+The data is being processed and will be released gradually.
