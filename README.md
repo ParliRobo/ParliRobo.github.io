@@ -39,7 +39,7 @@ code
 |---- preprocessor.py
 ```
 
-+ `code/_math.py` description is coming
++ `code/_math.py` provides math tools for clipping and embedding
 + `code/preprocessor.py` description is coming
 + `code/agent/policy_graph.py` description is coming
 
