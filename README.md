@@ -48,5 +48,11 @@ code
 
 ## Data Release
 
+<picture>
+    <source type="image/webp" srcset="image.webp">
+    <img src="https://i.ytimg.com/an_webp/Hw3-9WkHHpg/mqdefault_6s.webp?du=3000&sqp=CKjWipIG&rs=AOn4CLADBha2MkrqAs2FWNg4rt3zxUBdKQ">
+</picture>
+
+
 [![Watch the video](https://img.youtube.com/vi/Hw3-9WkHHpg/qdefault.jpg)](https://youtu.be/Hw3-9WkHHpg)
 Coming soon.
