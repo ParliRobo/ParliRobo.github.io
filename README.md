@@ -47,6 +47,7 @@ code
 
 
 ## Data Release
+The video of the human player fighting with ParliRobo is as follows.
 
 <iframe 
 src="https://www.youtube.com/embed/Hw3-9WkHHpg" 
