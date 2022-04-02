@@ -54,7 +54,7 @@ code
 The released part can be found [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/code).
 
 ## Data Release
-We have release a demo of a participant AI robot (PAR) fighting with a human player. Note that the protagonist in this demo is the PAR.
+We have released a demo of a participant AI robot (PAR) fighting with a human player. Note that the protagonist in this demo is the PAR.
 
 <iframe 
 src="https://www.youtube.com/embed/Hw3-9WkHHpg" 
@@ -71,7 +71,7 @@ width=400>
 As to the rest dataset, we are still in discussion with the authority to what extend can it be release. We will make the rest dataset in public as soon as possible after receiving permissions and desensitizing the dataset.
 
 ## Platform Requirements
-We build and deploy ParliRobo on Linux servers with proper Python supports. Specifically, we leverage [TensorFlow](https://opensource.google/projects/tensorflow), an end-to-end open source platform for machine learning, to train participant AI robots (PAR) in this study.
+Currently, we build and deploy ParliRobo on Linux servers with proper Python supports. Specifically, we leverage [TensorFlow](https://opensource.google/projects/tensorflow), an end-to-end open source platform for machine learning, to train participant AI robots (PAR) in this study.
 
 
 ## For Developers
