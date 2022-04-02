@@ -24,7 +24,7 @@ Recent years have witnessed the profound influence of AI technologies on compute
 
 ## Code Release
 
-Currently, we have partially released the code of this study [on github](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/code). We are scrutinizing the codebase to avoid possible anonymity violation. To this end, we will release the source code of this study as soon as we have finished examining a module and get approval from the authority.The codebase is organized as follows.
+Currently, we are scrutinizing the codebase to avoid possible anonymity violation. To this end, we will release the source code of this study in a module-by-module manner as soon as we have finished examining a module and acquire its release permission from the authority.The codebase is organized as follows.
 ```
 code
 |---- agent
@@ -44,7 +44,7 @@ code
 + `code/policy_graph.py` defines the structure of the Parlirobo's ML model.
 + `code/agent/policy_graph.py` is the entry file for the model.
 
-
+The released part can be found [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/code).
 
 ## Data Release
 The video of the human player fighting with ParliRobo is as follows.
