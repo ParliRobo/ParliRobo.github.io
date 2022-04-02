@@ -11,7 +11,7 @@
 </head>
 <br />
 
-![license](https://img.shields.io/badge/Platform-Android-green "Linux")
+![license](https://img.shields.io/badge/Platform-Linux-green "Linux")
 ![license](https://img.shields.io/badge/Version-Beta-yellow "Version")
 ![license](https://img.shields.io/badge/Licence-Apache%202.0-blue.svg "Apache")
 
