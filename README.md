@@ -71,7 +71,7 @@ width=400>
 As to the rest dataset, we are still in discussion with the authority to what extend can it be release. We will make the rest dataset in public as soon as possible after receiving permissions and desensitizing the dataset.
 
 ## Platform Requirements
-Currently, we build and deploy ParliRobo on Linux servers with proper Python supports. Specifically, we leverage [TensorFlow](https://opensource.google/projects/tensorflow), an end-to-end open source platform for machine learning, to train participant AI robots (PAR) in this study.
+Currently, we build and deploy ParliRobo on Linux servers with proper Python supports. Specifically, we leverage [TensorFlow](https://opensource.google/projects/tensorflow), an end-to-end open source platform for machine learning, to train participant AI robots (PARs) in this study.
 
 
 ## For Developers
