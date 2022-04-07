@@ -91,7 +91,7 @@ sample-dataset
 | `jumps`                    | Number of jumps performed by a user                          |
 | `crouches`                 | Number of crouches performed by a user                       |
 | `moving distances`         | Length of moving distances performed by a user               |
-| `pros gathered`            | Number of pros gathered performed by a user                  |
+| `pros gathered`            | Number of pros gathered by a user                            |
 
 ### mini-Turing_Test.xls
 
