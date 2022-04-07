@@ -51,12 +51,13 @@ code
           |---- server.py
           |---- GamebotAPI.py
           |---- pressure_test.py
+          |---- preprocessor.py
 ```
 
 + `implementation/math.py` provides math tools for data clipping and embedding.
 + `implementation/preprocessor.py` preprocesses the visual information of participant AI robots by defining functions such as bilinear approximation.
 + `implementation/training` contains several modules for training PARs of ParliRobo.
-+ `implementation/deployment` includes several module for deploying ParliRobo.
++ `implementation/deployment` includes several modules for deploying ParliRobo.
 
 The released part can be found [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/code).
 
