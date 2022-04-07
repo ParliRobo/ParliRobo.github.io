@@ -64,7 +64,7 @@ The released part can be found [here](https://github.com/ParliRobo/ParliRobo.git
 ## Data Release
 Currently, we have released a portion of the representative sample data (with proper anonymization) for references [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/sample_dataset). As to the full dataset, we are still in discussion with the authority to what extent can it be release. We will make the rest dataset in public as soon as possible after receiving permissions and desensitizing the dataset.
 
-These data are organized in interaction_delay.xlsx, mini-Turing_Test.xls, real-time_gaming_information.xlsx, respectively (for detailed data, please click [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/sample_dataset). For each file, we list the specific information coupled with the regarding description as follows.
+These data are organized in interaction_delay.xlsx, mini-Turing_Test.xls, real-time_gaming_information.xlsx, respectively (for detailed data, please click [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/sample_dataset)). For each file, we list the specific information coupled with the regarding description as follows.
 ```
 sample-dataset
 |---- interaction_delay.xlsx
