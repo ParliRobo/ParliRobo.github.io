@@ -29,7 +29,7 @@
 [For Developers](#for-developers)
 
 ## Introduction
-Our work focuses on developing participant lightweight AI robots (PARs) for complex real-time mobile gaming. To this end, we collaborate with X-Game, a popular 3D-FPS real-time mobile game that owns ~210,000 users in 2021. Based on comprehensive explorations, we eventually propose a practical PAR system (called ParliRobo) through a novel “transform and polish” methodology, which achieves ultralight implementations of the core system components by non-intuitive yet principled approaches and meanwhile carefully fixes the probable side effect incurred on user perceptions. This repository contains the implementation code of ParliRobo (including the training code and deployment code) and our released data.
+Our work focuses on developing participant lightweight AI robots (PARs) for complex real-time mobile gaming. To this end, we collaborate with X-Game, a popular 3D-FPS real-time mobile game that owns ~210,000 users in 2021. Based on comprehensive explorations, we eventually propose a practical PAR system (called ParliRobo) through a novel “transform and polish” methodology, which achieves ultralight implementations of the core system components by non-intuitive yet principled approaches and meanwhile carefully fixes the probable side effect incurred on user perceptions. This repository contains the implementation code of ParliRobo (including the training and deployment code) and our released data.
 
 ## Implementation of ParliRobo
 
