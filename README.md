@@ -98,7 +98,7 @@ sample-dataset
 | Column Name                | Description                                                  |
 | -------------------------- | ------------------------------------------------------------ |
 | `video_id`                 | Unique ID generated to identify a game video clip            |
-| `solution_name`            | PAR system or human player                                   |
+| `solution_name`            | PAR systems or human player                                   |
 | `V1` - `V34`               | Unique ID generated to identify a volunteer                  |
 
 ## Demo Video
