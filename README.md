@@ -29,11 +29,11 @@
 [For Developers](#for-developers)
 
 ## Introduction
-Our work focuses on developing participant lightweight AI robots (PARs) for complex real-time mobile gaming. To this end, we collaborate with X-Game, a popular 3D-FPS real-time mobile game that owns ~210,000 users in 2021. Based on comprehensive explorations, we eventually propose a practical PAR system (called ParliRobo) through a novel “transform and polish” methodology, which achieves ultralight implementations of the core system components by non-intuitive yet principled approaches and meanwhile carefully fixes the probable side effect incurred on user perceptions. This repository contains the implementation code of ParliRobo (including the training and deployment code) and our released data.
+Our work focuses on developing participant lightweight AI robots (PARs) for complex real-time mobile gaming. To this end, we collaborate with X-Game, a popular 3D-FPS real-time mobile game that owns ~210,000 users in 2021. Based on comprehensive explorations, we eventually develop a practical PAR system (called ParliRobo) through a novel “transform and polish” methodology, which achieves ultralight implementations of the core system components by non-intuitive yet principled approaches and meanwhile carefully fixes the probable side effect incurred on user perceptions. This repository contains the implementation code of ParliRobo (including the training and deployment code) and our released data.
 
 ## Implementation of ParliRobo
 
-Currently, we are scrutinizing the codebase to avoid possible anonymity violation. To this end, we will release the source code of this study in a module-by-module manner as soon as we have finished examining a module and acquire its release permission from the authority. The codebase is organized as follows.
+Currently, we are scrutinizing the codebase to avoid possible anonymity violation. After that, we will release the source code of this study as soon as we have finished examining it and acquire its release permission from the authority. The codebase is organized as follows.
 ```
 code
 |---- math.py
@@ -62,7 +62,7 @@ code
 The released part can be found [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/code).
 
 ## Data Release
-Currently, we have released a portion of the representative sample data (with proper anonymization) for references [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/sample_dataset). As to the full dataset, we are still in discussion with the authority to what extent can it be release. We will make the rest dataset in public as soon as possible after receiving permissions and desensitizing the dataset.
+Currently, we have released a portion of the representative sample data (with proper anonymization) for references [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/sample_dataset). As to the full dataset, we are still in discussion with the authority to what extent can it be released. We will make the rest dataset in public as soon as possible after receiving permissions and desensitizing the dataset.
 
 These data are organized in interaction_delay.xlsx, mini-Turing_Test.xls, real-time_gaming_information.xlsx, respectively (for detailed data, please click [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/sample_dataset)). For each file, we list the specific information coupled with the regarding description as follows.
 ```
@@ -76,7 +76,7 @@ sample-dataset
 
 | Column Name                | Description                                                  |
 | -------------------------- | ------------------------------------------------------------ |
-| `instruction_id`           | Unique ID generated to identify an instruction               |
+| `instruction_id`           | Unique ID of each instruction               |
 | `system_name`              | PAR system name                                              |
 | `interaction_delay`        | Average delay of instructions in a second                    |
 
@@ -84,25 +84,26 @@ sample-dataset
 
 | Column Name                | Description                                                  |
 | -------------------------- | ------------------------------------------------------------ |
-| `uid`                      | Unique ID generated to identify a PAR or human player (cannot be related to the user’s true indentity) |
+| `uid`                      | Unique ID of each PAR or human player (cannot be related to the user’s true indentity) |
 | `solution_name`            | PAR systems or human player                                  |
-| `shoots`                   | Number of shoots performed by a user                         |
-| `hits`                     | Number of hits performed by a user                           |
-| `jumps`                    | Number of jumps performed by a user                          |
-| `crouches`                 | Number of crouches performed by a user                       |
-| `moving distances`         | Length of moving distances performed by a user               |
-| `pros gathered`            | Number of pros gathered by a user                            |
+| `shoots`                   | Number of shoots performed by each user                      |
+| `hits`                     | Number of hits performed by each user                        |
+| `jumps`                    | Number of jumps performed by each user                       |
+| `crouches`                 | Number of crouches performed by each user                    |
+| `moving distances`         | Length of moving distances of each user                      |
+| `pros gathered`            | Number of pros gathered by each user                         |
 
 ### mini-Turing_Test.xls
 
 | Column Name                | Description                                                  |
 | -------------------------- | ------------------------------------------------------------ |
-| `video_id`                 | Unique ID generated to identify a game video clip            |
-| `solution_name`            | PAR systems or human player                                   |
+| `video_id`                 | Unique ID of each game video clip                            |
+| `solution_name`            | PAR systems or human player                                  |
 | `V1` - `V34`               | Unique ID generated to identify a volunteer                  |
 
 ## Demo Video
-We have released a demo video of a participant AI robot (PAR) trained by ParliRobo fighting with a human player. Note that the protagonist in this video is the PAR.
+
+We have released a demo video a participant AI robot (PAR) trained by ParliRobo fighting with a human player. The video was recorded on a mobile device (Mi 10). Note that the protagonist in this video is the PAR. 
 
 <iframe 
 src="https://www.youtube.com/embed/Hw3-9WkHHpg" 
