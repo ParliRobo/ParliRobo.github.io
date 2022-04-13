@@ -103,7 +103,7 @@ sample-dataset
 
 ## Demo Video
 
-We have released a demo video a participant AI robot (PAR) trained by ParliRobo fighting with a human player. The video was recorded on a mobile device (Mi 10). Note that the protagonist in this video is the PAR. 
+We have released a demo video a participant AI robot (PAR) trained by ParliRobo fighting with a human player. The video was recorded on a mobile device. Note that the protagonist in this video is the PAR. 
 
 <iframe 
 src="https://www.youtube.com/embed/Hw3-9WkHHpg" 
