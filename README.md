@@ -33,7 +33,7 @@ Our work focuses on developing participant lightweight AI robots (PARs) for comp
 
 ## Implementation of ParliRobo
 
-Currently, we are scrutinizing the codebase to avoid possible anonymity violation. After that, we will release the source code of this study as soon as we have finished examining it and acquire its release permission from the authority. The codebase is organized as follows.
+Currently, we are scrutinizing the codebase to avoid possible anonymity violations. After that, we will release the source code of this study as soon as we have finished examining it and acquired its release permission from the authority. The codebase is organized as follows.
 ```
 code
 |---- math.py
@@ -62,9 +62,9 @@ code
 The released part can be found [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/code).
 
 ## Data Release
-Currently, we have released a portion of the representative sample data (with proper anonymization) for references [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/sample_dataset). As to the full dataset, we are still in discussion with the authority to what extent can it be released. We will make the rest dataset in public as soon as possible after receiving permissions and desensitizing the dataset.
+Currently, we have released a portion of the representative sample data (with proper anonymization) for reference [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/sample_dataset). As to the full dataset, we are still in discussion with the authority to what extent can it be released. We will make the rest dataset in public as soon as possible after receiving the permission and desensitizing the dataset.
 
-These data are organized in interaction_delay.xlsx, mini-Turing_Test.xls, real-time_gaming_information.xlsx, respectively (for detailed data, please click [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/sample_dataset)). For each file, we list the specific information coupled with the regarding description as follows.
+These data are organized in interaction_delay.xlsx, mini-Turing_Test.xls, and real-time_gaming_information.xlsx, respectively (for detailed data, please click [here](https://github.com/ParliRobo/ParliRobo.github.io/tree/main/sample_dataset)). For each file, we list the specific information coupled with the regarding description as follows.
 ```
 sample-dataset
 |---- interaction_delay.xlsx
@@ -84,7 +84,7 @@ sample-dataset
 
 | Column Name                | Description                                                  |
 | -------------------------- | ------------------------------------------------------------ |
-| `uid`                      | Unique ID of each PAR or human player (cannot be related to the user’s true indentity) |
+| `uid`                      | Unique ID of each PAR or human player (cannot be related to the user’s true identity) |
 | `solution_name`            | PAR systems or human player                                  |
 | `shoots`                   | Number of shoots performed by each user                      |
 | `hits`                     | Number of hits performed by each user                        |
@@ -117,9 +117,9 @@ width=400>
 </iframe>
 
 ## Platform Requirements
-Currently, we build and deploy ParliRobo on Linux servers with proper Python supports. Specifically, we leverage [TensorFlow](https://opensource.google/projects/tensorflow), an end-to-end open source platform for machine learning, to train participant AI robots (PARs) in this study.
+Currently, we build and deploy ParliRobo on Linux servers with proper Python support. Specifically, we leverage [TensorFlow](https://opensource.google/projects/tensorflow), an end-to-end open source platform for machine learning, to train participant AI robots (PARs) in this study.
 
 
 ## For Developers
 Our code is licensed under Apache 2.0. Please adhere to the corresponding open source policy when applying modifications and commercial uses.
-Also, some of our code is currently not available but will be relased soon once we have obatained permissions.
+Also, some of our code is currently not available but will be released soon once we have obtained permissions.
