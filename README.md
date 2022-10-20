@@ -122,4 +122,4 @@ Currently, we build and deploy ParliRobo on Linux servers with proper Python sup
 
 ## For Developers
 Our code is licensed under Apache 2.0. Please adhere to the corresponding open source policy when applying modifications and commercial uses.
-Also, some of our code is currently not available but will be released soon once we have obtained permissions.
+Also, some of our code is currently not available but will be released soon once we have obtained the permission.
